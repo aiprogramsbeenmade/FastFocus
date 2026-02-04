@@ -21,7 +21,7 @@ Il programma permette di leggere testi (incollati o caricati da file) mostrando 
 
 1. **Clona la repository**:
    ```bash
-   git clone [https://github.com/tuo-username/FastFocus.git](https://github.com/tuo-username/FastFocus.git)
+   git clone https://github.com/aiprogramsbeenmade/FastFocus.git
    cd FastFocus
 2. **Avvia l'applicazione:**
    ```bash
